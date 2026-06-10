@@ -2,6 +2,15 @@ const fs = require('fs');
 const path = require('path');
 
 const generateSinglePage = () => {
+    let cssContent = '';
+    let jsContent = '';
+    try {
+        cssContent = fs.readFileSync(path.join(__dirname, 'assets/css/style.css'), 'utf8');
+        jsContent = fs.readFileSync(path.join(__dirname, 'assets/js/main.js'), 'utf8');
+    } catch (e) {
+        console.warn("Could not read assets, using external links or empty blocks");
+    }
+
     return `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,9 +21,10 @@ const generateSinglePage = () => {
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
+      ${cssContent}
+      
       html { scroll-behavior: smooth; }
       section { scroll-margin-top: 80px; }
       /* Additional styles for single page layout */
@@ -489,13 +499,15 @@ const generateSinglePage = () => {
                     <a href="https://x.com/moldmenofpgh" target="_blank" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
                 </div>
                 <div class="copyright">
-                    <p>&copy; ${new Date().getFullYear()} Mold Men Holdings Inc. All rights reserved.</p>
+                    <p>&copy; \${new Date().getFullYear()} Mold Men Holdings Inc. All rights reserved.</p>
                 </div>
             </div>
         </div>
     </footer>
 
-    <script src="assets/js/main.js"></script>
+    <script>
+        ${jsContent}
+    </script>
 </body>
 </html>`;
 }
