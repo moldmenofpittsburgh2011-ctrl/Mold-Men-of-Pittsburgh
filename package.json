@@ -1,0 +1,12 @@
+{
+  "name": "mold-men-pittsburgh",
+  "version": "1.0.0",
+  "description": "Single-page static website for Mold Men of Pittsburgh",
+  "main": "index.html",
+  "scripts": {
+    "build": "node build_single_page.js",
+    "start": "python3 -m http.server 8000"
+  },
+  "author": "",
+  "license": "ISC"
+}
