@@ -17,7 +17,7 @@ const generateSinglePage = () => {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mold Removal Pittsburgh PA | #1 Mold Remediation Company | Mold Men</title>
-    <meta name="description" content="Mold Men of Pittsburgh handles mold removal, black mold remediation, mold testing, and water damage restoration across Western PA. Call (724) 226-4191 for a free estimate.">
+    <meta name="description" content="Mold Men of Pittsburgh handles mold removal, black mold remediation, mold testing, and water damage restoration across Western PA. Call (724) 671-9108 for a free estimate.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
@@ -37,16 +37,16 @@ const generateSinglePage = () => {
       "@type": "LocalBusiness",
       "name": "Mold Men of Pittsburgh",
       "url": "https://moldmenofpittsburgh.com",
-      "telephone": "+17242264191",
+      "telephone": "+17246719108",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "938 Constitution Boulevard",
+        "streetAddress": "938 Constitution Blvd",
         "addressLocality": "New Kensington",
         "addressRegion": "PA",
         "postalCode": "15068",
         "addressCountry": "US"
       },
-      "openingHours": "Mo-Fr 09:00-17:00"
+      "openingHours": "Mo-Fr 08:00-17:00"
     }
     </script>
 </head>
@@ -57,11 +57,11 @@ const generateSinglePage = () => {
         <div class="container">
             <div class="top-bar-content">
                 <div class="top-bar-contact">
-                    <a href="tel:7242264191"><i class="fas fa-phone-alt"></i> (724) 226-4191</a>
-                    <span><i class="fas fa-map-marker-alt"></i> 938 Constitution Boulevard, Mold Men Holdings Inc, New Kensington, 15068</span>
+                    <a href="tel:7246719108"><i class="fas fa-phone-alt"></i> (724) 671-9108</a>
+                    <span><i class="fas fa-map-marker-alt"></i> 938 Constitution Blvd, New Kensington, PA 15068, United States</span>
                 </div>
                 <div class="top-bar-hours">
-                    <span><i class="far fa-clock"></i> Mon-Fri: 9am - 5pm</span>
+                    <span><i class="far fa-clock"></i> Mon-Fri: 8 am – 5 pm</span>
                 </div>
             </div>
         </div>
@@ -72,8 +72,7 @@ const generateSinglePage = () => {
         <div class="container">
             <div class="navbar">
                 <a href="#home" class="logo">
-                    <span class="logo-bold">Mold</span> Men
-                    <span class="logo-sub">of Pittsburgh</span>
+                    <img src="logo.jpg" alt="Mold Men of Pittsburgh Logo" style="height: 100px; width: auto; max-width: 100%;">
                 </a>
                 
                 <button class="mobile-menu-toggle" aria-label="Toggle Menu">
@@ -87,9 +86,14 @@ const generateSinglePage = () => {
                         <li class="dropdown">
                             <a href="#services">Services <i class="fas fa-chevron-down"></i></a>
                             <ul class="dropdown-menu">
-                                <li><a href="#mold-mitigation">Mold Mitigation</a></li>
-                                <li><a href="#mold-assessment">Assessment & Testing</a></li>
-                                <li><a href="#water-damage">Water Damage</a></li>
+                                <li><a href="#services">Mold Remediation</a></li>
+                                <li><a href="#services">Mold Removal</a></li>
+                                <li><a href="#services">Mold Inspection</a></li>
+                                <li><a href="#services">Mold Testing</a></li>
+                                <li><a href="#services">Mold Mitigation</a></li>
+                                <li><a href="#services">Mold Prevention</a></li>
+                                <li><a href="#services">Water Damage Restoration</a></li>
+                                <li><a href="#services">Mold Assessment / Testing</a></li>
                             </ul>
                         </li>
                         <li><a href="#service-areas">Service Areas</a></li>
@@ -110,7 +114,7 @@ const generateSinglePage = () => {
                     <p>From <a href="https://moldmenofpittsburgh.com/" style="color:var(--text-light); text-decoration:underline;">black mold removal Pittsburgh</a> in your basement to <a href="https://moldmenofpittsburgh.com/water-damage-repair/" style="color:var(--text-light); text-decoration:underline;">water damage restoration Pittsburgh</a> in your attic — Mold Men of Pittsburgh removes it completely, rebuilds what was damaged, and gets your home safe again. One call. One crew. Done right.</p>
                     <div class="hero-actions">
                         <a href="#contact" class="btn btn-primary btn-lg">Get a Free Estimate</a>
-                        <a href="tel:7242264191" class="btn btn-outline-light btn-lg"><i class="fas fa-phone-alt"></i> Call (724) 226-4191</a>
+                        <a href="tel:7246719108" class="btn btn-outline-light btn-lg"><i class="fas fa-phone-alt"></i> Call (724) 671-9108</a>
                     </div>
                     
                     <div class="trust-badges">
@@ -131,8 +135,8 @@ const generateSinglePage = () => {
                     <div class="intro-content">
                         <h2>The <a href="https://moldmenofpittsburgh.com/" style="color:inherit;">mold remediation Pittsburgh PA</a> Company Western PA Trusts</h2>
                         <p>When mold shows up in your home or building, the last thing you want is a general contractor who handles it twice a year. Mold Men of Pittsburgh is a specialist company — we do <a href="https://moldmenofpittsburgh.com/">mold removal Pittsburgh</a> and <a href="https://moldmenofpittsburgh.com/water-damage-repair/">water damage restoration Pittsburgh</a> every single day, for every type of property, across the entire Pittsburgh region.</p>
-                        <p>Our team handles the full job from start to finish: <a href="https://moldmenofpittsburgh.com/mold-mitigation-for-properties/">mold assessment & testing Pittsburgh</a>, containment, mitigation, air purification, and property rebuild. You don't need to juggle three separate contractors. One call to Mold Men at <strong>(724) 226-4191</strong> covers everything.</p>
-                        <p>We operate out of <strong>938 Constitution Boulevard, Mold Men Holdings Inc, New Kensington, 15068</strong> and serve homeowners, real estate agents, landlords, and commercial property owners throughout Western Pennsylvania.</p>
+                        <p>Our team handles the full job from start to finish: <a href="https://moldmenofpittsburgh.com/mold-mitigation-for-properties/">mold assessment & testing Pittsburgh</a>, containment, mitigation, air purification, and property rebuild. You don't need to juggle three separate contractors. One call to Mold Men at <strong>(724) 671-9108</strong> covers everything.</p>
+                        <p>We operate out of <strong>938 Constitution Blvd, New Kensington, PA 15068, United States</strong> and serve homeowners, real estate agents, landlords, and commercial property owners throughout Western Pennsylvania.</p>
                     </div>
                     <div class="intro-image-wrapper">
                         <img src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80" alt="Mold Inspection Professional" class="rounded-img shadow">
@@ -164,26 +168,38 @@ const generateSinglePage = () => {
                     <p>Comprehensive solutions for mold and water damage</p>
                 </div>
                 
-                <div class="grid-3">
-                    <div class="service-card">
-                        <div class="service-icon"><i class="fas fa-biohazard"></i></div>
-                        <h3>Mold Mitigation</h3>
-                        <p>We eliminate mold at the root using a commercial-grade 19.5% hydrogen peroxide solution. Our <a href="https://moldmenofpittsburgh.com/mold-removal-experts/">mold mitigation Pittsburgh</a> process follows IICRC-5520 protocols and EPA and CDC recommendations. No toxic chemicals. No enzymes.</p>
-                        <a href="#mold-mitigation" class="learn-more">Learn More <i class="fas fa-arrow-down"></i></a>
+                <div class="grid-4">
+                    <div class="area-card text-center" style="padding: 2rem 1rem;">
+                        <div class="service-icon" style="font-size: 2.5rem; color: var(--primary-color); margin-bottom: 1rem;"><i class="fas fa-shield-virus"></i></div>
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">Mold Remediation</h3>
                     </div>
-                    
-                    <div class="service-card">
-                        <div class="service-icon"><i class="fas fa-microscope"></i></div>
-                        <h3>Mold Assessment</h3>
-                        <p>Suspecting mold isn't the same as knowing you have it. Our <a href="https://moldmenofpittsburgh.com/mold-mitigation-for-properties/">mold assessment & testing Pittsburgh</a> process uses third-party lab testing that identifies the exact type of mold and its toxicity level before a single wall comes down.</p>
-                        <a href="#mold-assessment" class="learn-more">Learn More <i class="fas fa-arrow-down"></i></a>
+                    <div class="area-card text-center" style="padding: 2rem 1rem;">
+                        <div class="service-icon" style="font-size: 2.5rem; color: var(--primary-color); margin-bottom: 1rem;"><i class="fas fa-pump-soap"></i></div>
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">Mold Removal</h3>
                     </div>
-                    
-                    <div class="service-card">
-                        <div class="service-icon"><i class="fas fa-house-damage"></i></div>
-                        <h3>Water Damage Restoration</h3>
-                        <p>Mold follows moisture. Whether you're dealing with a recent flood, a slow pipe leak, or water intrusion from a storm, our team handles the water damage and the mold it causes — rebuilding and restoring your property completely.</p>
-                        <a href="#water-damage" class="learn-more">Learn More <i class="fas fa-arrow-down"></i></a>
+                    <div class="area-card text-center" style="padding: 2rem 1rem;">
+                        <div class="service-icon" style="font-size: 2.5rem; color: var(--primary-color); margin-bottom: 1rem;"><i class="fas fa-search"></i></div>
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">Mold Inspection</h3>
+                    </div>
+                    <div class="area-card text-center" style="padding: 2rem 1rem;">
+                        <div class="service-icon" style="font-size: 2.5rem; color: var(--primary-color); margin-bottom: 1rem;"><i class="fas fa-vial"></i></div>
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">Mold Testing</h3>
+                    </div>
+                    <div class="area-card text-center" style="padding: 2rem 1rem;">
+                        <div class="service-icon" style="font-size: 2.5rem; color: var(--primary-color); margin-bottom: 1rem;"><i class="fas fa-biohazard"></i></div>
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">Mold Mitigation</h3>
+                    </div>
+                    <div class="area-card text-center" style="padding: 2rem 1rem;">
+                        <div class="service-icon" style="font-size: 2.5rem; color: var(--primary-color); margin-bottom: 1rem;"><i class="fas fa-shield-alt"></i></div>
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">Mold Prevention</h3>
+                    </div>
+                    <div class="area-card text-center" style="padding: 2rem 1rem;">
+                        <div class="service-icon" style="font-size: 2.5rem; color: var(--primary-color); margin-bottom: 1rem;"><i class="fas fa-house-damage"></i></div>
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">Water Damage Restoration</h3>
+                    </div>
+                    <div class="area-card text-center" style="padding: 2rem 1rem;">
+                        <div class="service-icon" style="font-size: 2.5rem; color: var(--primary-color); margin-bottom: 1rem;"><i class="fas fa-microscope"></i></div>
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">Mold Assessment / Testing</h3>
                     </div>
                 </div>
             </div>
@@ -349,38 +365,33 @@ const generateSinglePage = () => {
                     <p class="subtitle">Mold Men of Pittsburgh responds quickly to calls across the Pittsburgh metro and surrounding communities. If mold or water damage is affecting your property, we're close by.</p>
                 </div>
                 
-                <div class="grid-4" style="margin-bottom: 3rem;">
-                    <div class="area-card">
-                        <h3>Butler</h3>
-                        <p style="font-size: 0.9rem; margin-bottom: 0;">Basement mold and crawl space mold are common in Butler's older farmhouses and stone foundations.</p>
+                <div class="grid-3" style="margin-bottom: 3rem;">
+                    <div class="area-card text-center">
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">Butler, PA, USA</h3>
                     </div>
-                    <div class="area-card">
-                        <h3>Cranberry</h3>
-                        <p style="font-size: 0.9rem; margin-bottom: 0;">Crawl space moisture, HVAC condensation issues, and improper vapor barriers lead to mold in newer homes.</p>
+                    <div class="area-card text-center">
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">Fox Chapel, PA, USA</h3>
                     </div>
-                    <div class="area-card">
-                        <h3>Fox Chapel</h3>
-                        <p style="font-size: 0.9rem; margin-bottom: 0;">Wooded, riverfront properties sit in naturally high-humidity microclimates making them vulnerable to water intrusion.</p>
+                    <div class="area-card text-center">
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">Pittsburgh, PA, USA</h3>
                     </div>
-                    <div class="area-card">
-                        <h3>Irwin</h3>
-                        <p style="font-size: 0.9rem; margin-bottom: 0;">Mid-century homes with older plumbing and basement sump systems are prone to seasonal moisture infiltration.</p>
+                    <div class="area-card text-center">
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">Irwin, PA 15642, USA</h3>
                     </div>
-                    <div class="area-card">
-                        <h3>Murrysville</h3>
-                        <p style="font-size: 0.9rem; margin-bottom: 0;">Hilly terrain and wooded lots often cause drainage issues, leading to basement water intrusion and mold.</p>
+                    <div class="area-card text-center">
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">Murrysville, PA, USA</h3>
                     </div>
-                    <div class="area-card">
-                        <h3>New Kensington</h3>
-                        <p style="font-size: 0.9rem; margin-bottom: 0;">Home to our base of operations. We know the local housing stock and respond faster than anyone.</p>
+                    <div class="area-card text-center">
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">Wexford, PA 15090, USA</h3>
                     </div>
-                    <div class="area-card">
-                        <h3>Sewickley</h3>
-                        <p style="font-size: 0.9rem; margin-bottom: 0;">Historic character homes carry mold risks from deteriorating waterproofing and old plumbing systems.</p>
+                    <div class="area-card text-center">
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">New Kensington, PA, USA</h3>
                     </div>
-                    <div class="area-card">
-                        <h3>Wexford</h3>
-                        <p style="font-size: 0.9rem; margin-bottom: 0;">Finished basements in newer suburban developments can hide water damage, letting mold spread fast behind walls.</p>
+                    <div class="area-card text-center">
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">Cranberry, PA 16319, USA</h3>
+                    </div>
+                    <div class="area-card text-center">
+                        <h3 style="font-size: 1.1rem; margin-bottom: 0;">Sewickley, PA 15143, USA</h3>
                     </div>
                 </div>
 
@@ -424,9 +435,21 @@ const generateSinglePage = () => {
 
                     <div class="contact-info-box" style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); color: var(--text-light); border: 1px solid rgba(255,255,255,0.2);">
                         <h3 class="text-white">Contact Information</h3>
-                        <p class="text-white"><strong>Phone:</strong><br> <a href="tel:7242264191" class="text-white">(724) 226-4191</a></p>
-                        <p class="text-white"><strong>Office Address:</strong><br> Mold Men of Pittsburgh<br>938 Constitution Boulevard, Mold Men Holdings Inc<br>New Kensington, 15068</p>
-                        <p class="text-white"><strong>Business Hours:</strong><br> Monday – Friday: 9:00 AM – 5:00 PM<br>Saturday & Sunday: Closed</p>
+                        <div class="text-white" style="margin-bottom: 1.5rem; line-height: 1.6;"><strong>Phone:</strong><br> 
+                        <a href="tel:7246719108" class="text-white" style="white-space: nowrap;">(724) 671-9108</a> (Primary)<br>
+                        <a href="tel:7242264191" class="text-white" style="white-space: nowrap;">(724) 226-4191</a><br>
+                        <a href="tel:7243218129" class="text-white" style="white-space: nowrap;">(724) 321-8129</a></div>
+                        <div class="text-white" style="margin-bottom: 1.5rem; line-height: 1.6;"><strong>Office Address:</strong><br> 938 Constitution Blvd, New Kensington, PA 15068, United States</div>
+                        <h3 class="text-white" style="margin-top: 1.5rem; margin-bottom: 0.5rem; font-size: 1.1rem;">Business Hours:</h3>
+                        <table style="width: 100%; max-width: 300px; border-collapse: collapse; color: var(--text-light); font-size: 0.95rem;">
+                            <tr><td style="padding: 3px 0;">Monday</td><td style="text-align: right; padding: 3px 0; white-space: nowrap;">8 am – 5 pm</td></tr>
+                            <tr><td style="padding: 3px 0;">Tuesday</td><td style="text-align: right; padding: 3px 0; white-space: nowrap;">8 am – 5 pm</td></tr>
+                            <tr><td style="padding: 3px 0;">Wednesday</td><td style="text-align: right; padding: 3px 0; white-space: nowrap;">8 am – 5 pm</td></tr>
+                            <tr><td style="padding: 3px 0;">Thursday</td><td style="text-align: right; padding: 3px 0; white-space: nowrap;">8 am – 5 pm</td></tr>
+                            <tr><td style="padding: 3px 0;">Friday</td><td style="text-align: right; padding: 3px 0; white-space: nowrap;">8 am – 5 pm</td></tr>
+                            <tr><td style="padding: 3px 0;">Saturday</td><td style="text-align: right; padding: 3px 0; white-space: nowrap;">Closed</td></tr>
+                            <tr><td style="padding: 3px 0;">Sunday</td><td style="text-align: right; padding: 3px 0;">Closed</td></tr>
+                        </table>
                         
                         <h3 class="text-white" style="margin-top: 2rem;">Why Call Us?</h3>
                         <ul style="padding-left: 1rem;">
@@ -447,13 +470,13 @@ const generateSinglePage = () => {
             <div class="footer-grid">
                 <div class="footer-col brand-col">
                     <a href="#home" class="footer-logo">
-                        <span class="logo-bold">Mold</span> Men
+                        <img src="logo.jpg" alt="Mold Men of Pittsburgh Logo" style="height: 80px; width: auto; background-color: white; padding: 6px; border-radius: 6px;">
                     </a>
                     <p>Western PA's #1 Recommended Mold Company. We handle mold removal and water damage restoration from start to finish.</p>
                     <div class="footer-contact">
-                        <p><i class="fas fa-map-marker-alt"></i> 938 Constitution Boulevard, Mold Men Holdings Inc<br>New Kensington, 15068</p>
-                        <p><i class="fas fa-phone-alt"></i> <a href="tel:7242264191">(724) 226-4191</a></p>
-                        <p><i class="far fa-clock"></i> Mon–Fri 9:00 AM – 5:00 PM</p>
+                        <p><i class="fas fa-map-marker-alt"></i> 938 Constitution Blvd, New Kensington, PA 15068, United States</p>
+                        <p><i class="fas fa-phone-alt"></i> <a href="tel:7246719108">(724) 671-9108</a></p>
+                        <p><i class="far fa-clock"></i> Mon-Fri: 8 am – 5 pm</p>
                     </div>
                 </div>
                 
@@ -470,23 +493,29 @@ const generateSinglePage = () => {
                 <div class="footer-col">
                     <h3>Our Services</h3>
                     <ul>
-                        <li><a href="#mold-mitigation">Mold Mitigation</a></li>
-                        <li><a href="#mold-assessment">Mold Assessment & Testing</a></li>
-                        <li><a href="#water-damage">Water Damage Restoration</a></li>
+                        <li><a href="#services">Mold Remediation</a></li>
+                        <li><a href="#services">Mold Removal</a></li>
+                        <li><a href="#services">Mold Inspection</a></li>
+                        <li><a href="#services">Mold Testing</a></li>
+                        <li><a href="#services">Mold Mitigation</a></li>
+                        <li><a href="#services">Mold Prevention</a></li>
+                        <li><a href="#services">Water Damage Restoration</a></li>
+                        <li><a href="#services">Mold Assessment / Testing</a></li>
                     </ul>
                 </div>
                 
                 <div class="footer-col">
                     <h3>Service Areas</h3>
                     <ul class="service-areas-list">
-                        <li><a href="#service-areas">Butler</a></li>
-                        <li><a href="#service-areas">Cranberry</a></li>
-                        <li><a href="#service-areas">Fox Chapel</a></li>
-                        <li><a href="#service-areas">Irwin</a></li>
-                        <li><a href="#service-areas">Murrysville</a></li>
-                        <li><a href="#service-areas">New Kensington</a></li>
-                        <li><a href="#service-areas">Sewickley</a></li>
-                        <li><a href="#service-areas">Wexford</a></li>
+                        <li><a href="#service-areas">Butler, PA, USA</a></li>
+                        <li><a href="#service-areas">Fox Chapel, PA, USA</a></li>
+                        <li><a href="#service-areas">Pittsburgh, PA, USA</a></li>
+                        <li><a href="#service-areas">Irwin, PA 15642, USA</a></li>
+                        <li><a href="#service-areas">Murrysville, PA, USA</a></li>
+                        <li><a href="#service-areas">Wexford, PA 15090, USA</a></li>
+                        <li><a href="#service-areas">New Kensington, PA, USA</a></li>
+                        <li><a href="#service-areas">Cranberry, PA 16319, USA</a></li>
+                        <li><a href="#service-areas">Sewickley, PA 15143, USA</a></li>
                     </ul>
                 </div>
             </div>
@@ -499,7 +528,7 @@ const generateSinglePage = () => {
                     <a href="https://x.com/moldmenofpgh" target="_blank" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
                 </div>
                 <div class="copyright">
-                    <p>&copy; \${new Date().getFullYear()} Mold Men Holdings Inc. All rights reserved.</p>
+                    <p>Copyright 2026 Mold Men of Pittsburgh dot com. All rights reserved.</p>
                 </div>
             </div>
         </div>
