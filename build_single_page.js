@@ -56,6 +56,9 @@ const generateSinglePage = () => {
     <div class="top-bar">
         <div class="container">
             <div class="top-bar-content">
+                <div class="top-bar-brand">
+                    <strong style="font-size: 0.95rem; letter-spacing: 0.5px;">Mold Men of Pittsburgh</strong>
+                </div>
                 <div class="top-bar-contact">
                     <a href="tel:7246719108"><i class="fas fa-phone-alt"></i> (724) 671-9108</a>
                     <span><i class="fas fa-map-marker-alt"></i> 938 Constitution Blvd, New Kensington, PA 15068, United States</span>
@@ -72,7 +75,7 @@ const generateSinglePage = () => {
         <div class="container">
             <div class="navbar">
                 <a href="#home" class="logo">
-                    <img src="logo.jpg" alt="Mold Men of Pittsburgh Logo" style="height: 100px; width: auto; max-width: 100%;">
+                    <img src="Logo.jpg" alt="Mold Men of Pittsburgh Logo" style="height: 120px; width: auto; max-width: 100%;">
                 </a>
                 
                 <button class="mobile-menu-toggle" aria-label="Toggle Menu">
@@ -470,7 +473,7 @@ const generateSinglePage = () => {
             <div class="footer-grid">
                 <div class="footer-col brand-col">
                     <a href="#home" class="footer-logo">
-                        <img src="logo.jpg" alt="Mold Men of Pittsburgh Logo" style="height: 80px; width: auto; background-color: white; padding: 6px; border-radius: 6px;">
+                        <img src="Logo.jpg" alt="Mold Men of Pittsburgh Logo" style="height: 95px; width: auto; background-color: white; padding: 6px; border-radius: 6px;">
                     </a>
                     <p>Western PA's #1 Recommended Mold Company. We handle mold removal and water damage restoration from start to finish.</p>
                     <div class="footer-contact">

@@ -206,6 +206,14 @@ img {
   color: var(--accent-color);
 }
 
+.top-bar-brand {
+  color: var(--text-light);
+  font-weight: 700;
+  font-size: 0.95rem;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+
 /* Header & Nav */
 .header {
   background-color: var(--bg-white);
